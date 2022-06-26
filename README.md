@@ -1,7 +1,11 @@
-### Hi there 👋
+### treasure_island_game.py
 
-Hi, my name is Keith.
-And I love to program.
+Treasure Island Game is a game in which you have to make choices to get the treasure.
 
-- 🌱 I’m currently learning Python, Git and GitHub
+### rock_paper_scissors_game.py
 
+Rock, Paper and Scissors is a game played with computer.
+
+### random_art.py
+
+It is an app which makes random art.
